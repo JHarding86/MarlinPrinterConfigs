@@ -1,3 +1,5 @@
+# My custom configurations are on release-2.1.2.1 branch, as that is the branch that was in active release state when I last compiled Marlin.
+
 # Configurations
 Pre-tested Configurations for Marlin Firmware 2.1.2.1
 
